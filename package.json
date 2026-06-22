@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+  "start": "node index.js"
+},  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyber-Dx20000/whatsapp-pair-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cyber-Dx20000/whatsapp-pair-bot/issues"
+  },
+  "homepage": "https://github.com/Cyber-Dx20000/whatsapp-pair-bot#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "pino": "^10.3.1"
+  }
+}
